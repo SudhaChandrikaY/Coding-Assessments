@@ -1,3 +1,4 @@
+# Firt Unique Character in a string
 def GetUniChar(string):
   Dict = {}
   for i in range(len(string)):
